@@ -1,49 +1,52 @@
-TaskManagerPro – Angular/NestJS Full Stack App 🔗
+TaskManagerPro 🔗
 
-Description
-TaskManagerPro est une application web full-stack de gestion de tâches collaboratives.
-Elle permet de créer, assigner et suivre les tâches en temps réel avec un front-end réactif et un backend robuste, tout en appliquant les bonnes pratiques d’architecture et les standards professionnels.
+Angular + NestJS Full Stack Task Management App
 
-Rôle et Contributions
+🚀 À propos
 
-Développement complet du frontend en Angular + TypeScript + RxJS pour gérer l’état et les flux asynchrones.
+TaskManagerPro est une application web full-stack pour gérer des tâches collaboratives en temps réel.
+Elle centralise les projets, assigne des tâches et suit l’avancement avec un frontend réactif et un backend robuste, tout en respectant les bonnes pratiques de développement.
 
-Conception du backend avec NestJS (Node.js), API REST sécurisée via JWT, et gestion des permissions.
+✨ Fonctionnalités
 
-Base de données principale PostgreSQL pour les utilisateurs et projets, MongoDB pour les logs et notifications.
+Authentification multi-utilisateurs et gestion des rôles
 
-Implémentation de tests unitaires (Jasmine/Jest) et tests E2E (Cypress) pour assurer fiabilité et robustesse.
+Création, modification et suivi des tâches en temps réel
 
-Collaboration et suivi Agile/Scrum, CI/CD Dockerisée et déploiement cloud-ready.
+Notifications asynchrones et logs détaillés
 
-Fonctionnalités clés
+Tableau de bord interactif avec filtres et recherche dynamique
 
-Gestion multi-utilisateurs avec authentification et rôles.
+🛠 Technologies
 
-Création, modification et suivi des tâches en temps réel.
+Frontend : Angular, TypeScript, RxJS
 
-Notifications asynchrones et logs d’activité détaillés.
+Backend : Node.js, NestJS, JWT, REST API
 
-Tableau de bord interactif avec filtrage et recherche dynamique.
+Base de données : PostgreSQL, MongoDB
 
-Technologies
+Tests : Jasmine/Jest (unitaires), Cypress (E2E)
 
-Frontend : Angular, TypeScript, RxJS
+Outils & workflow : Docker, Git, CI/CD, Agile/Scrum
 
-Backend : Node.js, NestJS, JWT, REST API
+💡 Mon rôle
 
-Bases de données : PostgreSQL, MongoDB
+Développement complet du frontend et gestion des flux asynchrones avec RxJS
 
-Tests : Jasmine/Jest (unitaires), Cypress (E2E)
+Conception et sécurisation du backend avec NestJS et JWT
 
-Outils : Docker, Git, GitHub, CI/CD, Agile/Scrum
+Mise en place des bases de données PostgreSQL & MongoDB
 
-Objectifs pédagogiques / apprentissage
+Rédaction de tests unitaires et tests E2E
 
-Approfondir les compétences Full Stack Angular/NestJS.
+Intégration continue et déploiement cloud-ready avec Docker
 
-Appliquer des concepts avancés de RxJS et gestion d’état complexe.
+🎯 Objectifs d’apprentissage
 
-Comprendre la sécurisation des API, les bases de données relationnelles et NoSQL, et l’optimisation des performances.
+Maîtriser le Full Stack Angular/NestJS
 
-Expérience pratique sur tests automatisés, CI/CD et workflow Agile.
+Approfondir RxJS et gestion d’état complexe
+
+Sécuriser les API et optimiser les performances
+
+Expérimenter les tests automatisés et workflow Agile
